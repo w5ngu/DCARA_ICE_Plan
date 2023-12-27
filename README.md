@@ -4,4 +4,4 @@ This is a standardized channel plan recommended for all Denton County amateur ra
 
 ## Opening an Issue ##
 
-Reference the _CHIRP .csv file when opening an issue. This is easier to reference than the .xls(x) files.
+Reference the _RTSystems.csv file when opening an issue. This is easier to reference than the .xls(x) files.
